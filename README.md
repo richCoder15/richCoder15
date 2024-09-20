@@ -5,7 +5,7 @@
 - 📫 You can contact me through GitHub
 - 😄 Pronouns: He, Him,
 - ⚡ Fun fact: Just started programming around the end of COVID - 19 (the end of the large pandemic)
-
+- Favorite Project: https://github.com/richCoder15/cookieClickerAutomation
 
 <!---
 richCoder15/richCoder15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
